@@ -3,12 +3,12 @@
   font-weight: normal;
   font-style: normal;
 
-  src: url('/iPortfolio/assets/vendor/boxicons/fonts/boxicons.eot');
-  src: url('/iPortfolio/assets/vendor/boxicons/fonts/boxicons.eot') format('embedded-opentype'),
-    url('/iPortfolio/assets/vendor/boxicons/fonts/boxicons.woff2') format('woff2'),
-    url('/iPortfolio/assets/vendor/boxicons/fonts/boxicons.woff') format('woff'),
-    url('/iPortfolio/assets/vendor/boxicons/fonts/boxicons.ttf') format('truetype'),
-    url('/iPortfolio/assets/vendor/boxicons/fonts/boxicons.svg?#boxicons') format('svg');
+  src: url('../fonts/boxicons.eot');
+  src: url('../boxicons/fonts/boxicons.eot') format('embedded-opentype'),
+    url('../boxicons/fonts/boxicons.woff2') format('woff2'),
+    url('../boxicons/fonts/boxicons.woff') format('woff'),
+    url('../boxicons/fonts/boxicons.ttf') format('truetype'),
+    url('../boxicons/fonts/boxicons.svg?#boxicons') format('svg');
 }
 
 .bx {
